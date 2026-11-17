@@ -1,7 +1,5 @@
 # Making Change: Greedy, Exhaustive and Pruned Search
 
-Practical Work 1 of **UE 7 – Mobility in Smart Cities** (Dynamic Transportation & Exact Solving, Ph. Canalda).
-
 Authors: Oumnia Chiouikh, Malick Diop
 
 ## What it does
